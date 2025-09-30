@@ -1,0 +1,44 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+*.env
+env/
+venv/
+ENV/
+*.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker / build artifacts
+*.tar
+*.img
+docker-compose.override.yml
+*.bak
+
+# Python compiled binaries
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE specific
+.vscode/
+.idea/
+
+# Sensitive data / model files (optional if you don’t want to push models)
+models/
+data/
