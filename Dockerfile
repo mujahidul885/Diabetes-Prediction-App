@@ -16,10 +16,5 @@ RUN pip install --no-cache-dir scikit-learn==1.6.1
 # Expose Streamlit default port
 EXPOSE 8501
 
-# Set default env (can be overridden on Render)
-ENV MODEL_PATH=models/diabeties_model_rf.pkl
-ENV STREAMLIT_SERVER_PORT=8501
-ENV STREAMLIT_SERVER_HEADLESS=true
-
 # Run the Streamlit app from project root (app.py must be at project root)
 CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
