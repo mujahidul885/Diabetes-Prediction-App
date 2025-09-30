@@ -42,3 +42,4 @@ build/
 # Sensitive data / model files (optional if you don’t want to push models)
 models/
 data/
+a.yml
