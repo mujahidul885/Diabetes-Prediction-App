@@ -47,7 +47,7 @@ diabetes_project/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mujahidul885/Diabetes-Prediction-App.git
 cd diabetes_project
 ```
 
@@ -149,7 +149,7 @@ python app/flask_app.py
 * Render / Railway: Host Streamlit or Flask app.
 * Optional Docker container for cloud deployment.
 
-**Live Web App:** [Click here to try the Diabetes Prediction App](https://your-render-link.onrender.com)
+**Live Web App:** [Click here to try the Diabetes Prediction App](https://diabetes-prediction-app-x8kj.onrender.com/)
 
 ## ⚡ Notes
 
@@ -164,4 +164,5 @@ python app/flask_app.py
 **Mujahidul Islam**
 Email: [mujahidulI845455@gmail.com](mailto:mujahidulI845455@gmail.com)
 Phone: +91 8603629937
+
 
