@@ -143,6 +143,14 @@ python app/flask_app.py
 
 ---
 
+## 🚀 Deployment
+
+* Streamlit Cloud: Easy web deployment.
+* Render / Railway: Host Streamlit or Flask app.
+* Optional Docker container for cloud deployment.
+
+**Live Web App:** [Click here to try the Diabetes Prediction App](https://your-render-link.onrender.com)
+
 ## ⚡ Notes
 
 * Ensure **feature order** remains the same as training when making predictions.
@@ -156,3 +164,4 @@ python app/flask_app.py
 **Mujahidul Islam**
 Email: [mujahidulI845455@gmail.com](mailto:mujahidulI845455@gmail.com)
 Phone: +91 8603629937
+
